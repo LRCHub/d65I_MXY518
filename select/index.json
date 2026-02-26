@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ラブ・ストーリーは突然に",
+  "base_artist": "クリス・ハート",
+  "createdAt": "2026-02-26T17:37:55.034354Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Suddenly〜ラブ・ストーリーは突然に〜",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/01_Suddenly〜ラブ・ストーリーは突然に〜_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Suddenly 〜ラブ・ストーリーは突然に〜",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/02_Suddenly_〜ラブ・ストーリーは突然に〜_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "Kohmi Hirose",
+      "has_synced": true,
+      "path": "select/03_ラブ・ストーリーは突然に_Kohmi_Hirose.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "小田 和正",
+      "has_synced": true,
+      "path": "select/04_ラブ・ストーリーは突然に_小田_和正.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "小田和正",
+      "has_synced": true,
+      "path": "select/05_ラブ・ストーリーは突然に_小田和正.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラブ ストーリーは突然に",
+      "artist": "小田和正",
+      "has_synced": true,
+      "path": "select/06_ラブ_ストーリーは突然に_小田和正.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "小田和正",
+      "has_synced": true,
+      "path": "select/07_ラブ・ストーリーは突然に_小田和正.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "小田和正",
+      "has_synced": true,
+      "path": "select/08_ラブ・ストーリーは突然に_小田和正.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "Kazumasa Oda",
+      "has_synced": true,
+      "path": "select/09_ラブ・ストーリーは突然に_Kazumasa_Oda.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Suddenly〜ラブ・ストーリーは突然に〜",
+      "artist": "Gibson, Debbie",
+      "has_synced": false,
+      "path": "select/10_Suddenly〜ラブ・ストーリーは突然に〜_Gibson,_Debbie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "小田和正",
+      "has_synced": true,
+      "path": "select/11_ラブ・ストーリーは突然に_小田和正.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "アーリャ（CV：上坂すみれ）",
+      "has_synced": false,
+      "path": "select/12_ラブ・ストーリーは突然に_アーリャ(CV_上坂すみれ).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "アーリャ(CV：上坂すみれ)",
+      "has_synced": true,
+      "path": "select/13_ラブ・ストーリーは突然に_アーリャ(CV_上坂すみれ).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "小田和正",
+      "has_synced": true,
+      "path": "select/14_ラブ・ストーリーは突然に_小田和正.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "Kazumasa Oda",
+      "has_synced": true,
+      "path": "select/15_ラブ・ストーリーは突然に_Kazumasa_Oda.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "アーリャ(CV.上坂すみれ)",
+      "has_synced": true,
+      "path": "select/16_ラブ・ストーリーは突然に_アーリャ(CV.上坂すみれ).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "Oda Kazumasa",
+      "has_synced": true,
+      "path": "select/17_ラブ・ストーリーは突然に_Oda_Kazumasa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ラブ・ストーリーは突然に - Love Story Wa Totsuzenni",
+      "artist": "Kazumasa Oda",
+      "has_synced": true,
+      "path": "select/18_ラブ・ストーリーは突然に_-_Love_Story_Wa_Totsuzenni_Kazumasa_Oda.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブ・ストーリーは突然に",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/pl_01_ラブ・ストーリーは突然に_クリス・ハート.txt"
+    }
+  ]
+}
